@@ -9,11 +9,11 @@ I'm a passionate Junior Web Developer based in the United Kingdom, with a deep l
 - 📫 You can reach me at: eziheugonna@gmail.com
 
 🛠️ **Tech Stack:**
-- Frontend: React.js, HTML, CSS
-- Backend: Node.js, Express.js
+- Frontend: React.js, HTML, CSS, Javascript, Bootstrap
+- Backend: Node.js, Express.js, Flask
 - Database: SQL, MongoDB
 - Other: Python, REST API, Git
 
-- Check out my starred projects on my profile.
+- 📌 Check out my pinned projects
 
 - LET'S COLLABORATE! 🎉🎉

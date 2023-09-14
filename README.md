@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @HarveyPy-1
-- 👀 I’m interested in Python, HTML, CSS, Javascript
-- 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to become a Full-Stack Web Developer
-- 📫 How to reach me Email: eziheugonna@gmail.com
+### Hi there, I'm Harvey Ezihe! 👋
 
-<!---
-HarveyPy-1/HarveyPy-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Junior Web Developer based in the United Kingdom, with a deep love for creating exceptional online experiences. Welcome to my GitHub profile!
+
+🌱 **About Me:**
+- 💼 Currently looking for a job and open to work.
+- 🚀 I'm enthusiastic about web development, especially in React, Node.js, Express.js, and CSS.
+- 📚 Constantly learning and exploring new technologies to improve my skills.
+- 📫 You can reach me at: eziheugonna@gmail.com
+
+🛠️ **Tech Stack:**
+- Frontend: React.js, HTML, CSS
+- Backend: Node.js, Express.js
+- Database: SQL, MongoDB
+- Other: Python, REST API, Git
+
+- Check out my starred projects on my profile.
+
+- LET'S COLLABORATE! 🎉🎉

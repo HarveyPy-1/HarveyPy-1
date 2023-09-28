@@ -1,4 +1,5 @@
 ### Hi there, I'm Harvey Ezihe! 👋
+https://www.harveyezihe.tech
 
 I'm a passionate Junior Web Developer based in the United Kingdom, with a deep love for creating exceptional online experiences. Welcome to my GitHub profile!
 
@@ -14,6 +15,7 @@ I'm a passionate Junior Web Developer based in the United Kingdom, with a deep l
 - Database: SQL, MongoDB
 - Other: Python, REST API, Git
 
-- 📌 Check out my pinned projects
+- 📌 Check out my pinned projects and check out my portfolio
+  www.harveyezihe.tech
 
 - LET'S COLLABORATE! 🎉🎉
